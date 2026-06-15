@@ -2,8 +2,8 @@ import Hero from "@/components/layouts/hero";
 
 export default function Home() {
   return (
-    <main className="flex-1">
+    <div>
       <Hero />
-    </main>
+    </div>
   );
 }
